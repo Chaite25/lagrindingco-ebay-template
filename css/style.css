@@ -438,6 +438,7 @@ section.tab-section {
     border: 1px solid #ddd;
     color: #1a1a1a;
     overflow: hidden;
+    text-align: left;
 }
 
 .tab-part-area input {
